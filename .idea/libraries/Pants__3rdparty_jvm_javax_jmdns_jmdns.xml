@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pants: 3rdparty/jvm/javax/jmdns:jmdns">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/javax.jmdns/jmdns/jars/jmdns-3.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Pants: 3rdparty/jvm/org/apache/zookeeper:zookeeper-client">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.google.guava/guava/jars/guava-16.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/commons-cli/commons-cli/jars/commons-cli-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/commons-io/commons-io/jars/commons-io-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/log4j/log4j/bundles/log4j-1.2.16.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/net.java.dev.javacc/javacc/jars/javacc-5.0.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/org.apache.commons/commons-math3/jars/commons-math3-3.2.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/org.apache.zookeeper/zookeeper-client/jars/zookeeper-client-10.0.23-20160708234148-60113c3.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/org.apache.zookeeper/zookeeper/jars/zookeeper-99.99.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

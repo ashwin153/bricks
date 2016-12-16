@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pants: 3rdparty/jvm/org/apache/zookeeper:evict-monolithic-zookeeper">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/org.apache.zookeeper/zookeeper/jars/zookeeper-99.99.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

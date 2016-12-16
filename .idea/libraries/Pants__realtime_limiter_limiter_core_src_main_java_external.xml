@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Pants: realtime-limiter/limiter-core/src/main/java:external">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/jars/jackson-datatype-jsr310-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
