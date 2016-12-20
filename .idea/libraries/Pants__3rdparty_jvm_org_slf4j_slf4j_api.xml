@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Pants: 3rdparty/jvm/org/slf4j:slf4j-api">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Pants: realtime-limiter/limiter-core/src/test/java:external">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.googlecode.multithreadedtc/multithreadedtc/jars/multithreadedtc-1.01.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

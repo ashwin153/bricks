@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Pants: 3rdparty/jvm/com/google/code/gson:gson">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.ivy2/limiter/cache/com.google.code.gson/gson/jars/gson-2.3.1.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

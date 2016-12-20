@@ -1,6 +1,0 @@
-<table><tr><td class="timing-string">0.509</td>
-                          <td class="timing-label">main:options</td></tr><tr><td class="timing-string">0.504</td>
-                          <td class="timing-label">main:options:options</td></tr><tr><td class="timing-string">0.038</td>
-                          <td class="timing-label">main:setup</td></tr><tr><td class="timing-string">0.000</td>
-                          <td class="timing-label">main:setup:parse</td></tr><tr><td class="timing-string">0.000</td>
-                          <td class="timing-label">main:complete</td></tr><table>
