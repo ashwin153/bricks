@@ -92,8 +92,8 @@ case class Board[L](
         unvisited.dequeueAll(neighbors.last.contains)
       }
 
-      // Try solving each non-unitary neighborhood in parallel until any one is solved.
-      neighbors.filter(_.size > 1).iterator
+      // Try solving each non-unitary neighborhood until any one is solved.
+      neighbors.filter(_.size > 1).sortBy(-_.length).iterator
         .map(i => (i.head, this.remove(i).solve()))
         .find(_._2.isDefined)
         .map(i => i._1 +: i._2.get)

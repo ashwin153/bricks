@@ -39,10 +39,10 @@ case class Index(x: Int, y: Int) extends Ordered[Index] {
           Index(index.x + 0, index.y + 1)
         )
 
-        visited += index
         neighbors
           .filter(board.labels.get(_).exists(_ == board.labels(this)))
           .foreach(queue.enqueue(_))
+        visited += index
       }
     }
 
