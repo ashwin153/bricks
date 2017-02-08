@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/._module.iml" filepath="$PROJECT_DIR$/._module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3rdparty_jvm_junit/3rdparty_jvm_junit.iml" filepath="$PROJECT_DIR$/3rdparty_jvm_junit/3rdparty_jvm_junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3rdparty_jvm_mockito/3rdparty_jvm_mockito.iml" filepath="$PROJECT_DIR$/3rdparty_jvm_mockito/3rdparty_jvm_mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3rdparty_jvm_scalatest/3rdparty_jvm_scalatest.iml" filepath="$PROJECT_DIR$/3rdparty_jvm_scalatest/3rdparty_jvm_scalatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/___scala-library/___scala-library.iml" filepath="$PROJECT_DIR$/___scala-library/___scala-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/___scala-reflect/___scala-reflect.iml" filepath="$PROJECT_DIR$/___scala-reflect/___scala-reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/___scala-repl/___scala-repl.iml" filepath="$PROJECT_DIR$/___scala-repl/___scala-repl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/___scalac/___scalac.iml" filepath="$PROJECT_DIR$/___scalac/___scalac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src_main_scala_scala/src_main_scala_scala.iml" filepath="$PROJECT_DIR$/src_main_scala_scala/src_main_scala_scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src_test_scala_scala/src_test_scala_scala.iml" filepath="$PROJECT_DIR$/src_test_scala_scala/src_test_scala_scala.iml" />
+    </modules>
+  </component>
+</project>
