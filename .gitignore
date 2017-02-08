@@ -1,9 +1,9 @@
 # macOS
 .DS_Store
 
-# IntelliJ 
-.idea/
-*.iml
+# IntelliJ
+**/.idea/workspace.xml
+**/.idea/tasks.xml
 
 # Pants
 .cache
